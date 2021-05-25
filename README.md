@@ -1,2 +1,2 @@
-# pseudoCodigo
-Repositório contendo exercícios de pseudocógigo
+# PseudoCódigo
+Repositório contendo listas de exercícios em pseudocógigo

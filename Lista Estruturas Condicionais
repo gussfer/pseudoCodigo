@@ -100,7 +100,7 @@ FIM_ALGORITMO
 */
 
 /*
-5)
+5) Segunda Versão
 ALGORITMO
 DECLARE OP, N1, N2, S, R NUMÉRICO
 ESCREVA 'Menu de opções: '
@@ -168,28 +168,6 @@ ENTAO INICIO
 PC = PA*0.20
 ESCREVA 'Novo valor: ', PA-PC
 FIM
-FIM_ALGORITMO
-*/
-
-/*
-7) SEGUNDA VERSÃO
-ALGORITMO
-DECLARE VMM, PA, AU, DIM, PF NUMÉRICO
-ESCREVA 'Digite a venda média mensal do produto: '
-LEIA VMM
-ESCREVA 'Digite o preço atual do produto: '
-LEIA PA
-SE (VMM<500 OU PA<30)
-ENTAO AU = PA*0.10
-SE (VMM>= 500.0 OU VMM<1200.0)
-ENTAO SE (PA>=20.0 E PA<80.0)
-ENTAO AU = PA*0.15
-PF = PA+AU
-ESCREVA 'O novo preço do produto é: ', PF
-SE (VMM >=1200.0 OU PA>=80)
-ENTAO DIM = PA*0.20
-PF = PA-DIM
-ESCREVA 'O novo preço do produto é: ', PF
 FIM_ALGORITMO
 */
 

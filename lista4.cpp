@@ -1,8 +1,4 @@
 // Lista de Exercícios 4 - pseudoCodigo
-//Dúvidas:
-    /*
-    - uso do "senão se" - exercício 6: posso usar 'senao se' mesmo dentro de um 'se'
-    */
 
 //Exercícios
 /*
